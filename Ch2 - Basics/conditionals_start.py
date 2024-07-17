@@ -35,6 +35,7 @@ def main():
             print("this is something else")
 
     print(result)
+    print("test")
 
 if __name__ == "__main__":
     main()

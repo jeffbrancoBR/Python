@@ -34,5 +34,7 @@ def main():
         case _:
             print("this is something else")
 
+    print(result)
+
 if __name__ == "__main__":
     main()
